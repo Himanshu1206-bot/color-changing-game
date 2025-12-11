@@ -1,0 +1,41 @@
+#button{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    margin: 20px;
+    display: inline-block;
+}
+
+.gray{
+    
+    background-color: gray;
+}
+
+.white{
+    
+    background-color: white;
+    
+}
+
+.blue{
+    
+    background-color: blue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+p{
+    text-decoration:double;
+   text-align: center;
+    
+ }
+ h1{
+    text-align: center;
+ }
+ .base{
+    display: flex;
+    justify-content: center;
+    
+ }
